@@ -1,0 +1,956 @@
+Day 1
+case 1
+R
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 95 | Rs: 97.68 kΩ | Rs/R0: 1.41 | Methane: 18.36 ppm
+ADC: 95 | Rs: 97.68 kΩ | Rs/R0: 1.41 | Methane: 18.36 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+ADC: 96 | Rs: 96.56 kΩ | Rs/R0: 1.39 | Methane: 18.44 ppm
+
+L
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+
+case 2
+R
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+
+L
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+
+case 3
+-null-
+
+Day 2
+case 1
+R
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+ADC: 68 | Rs: 140.44 kΩ | Rs/R0: 2.02 | Methane: 15.99 ppm
+ADC: 69 | Rs: 138.26 kΩ | Rs/R0: 1.99 | Methane: 16.09 ppm
+
+L
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 44 | Rs: 222.50 kΩ | Rs/R0: 3.20 | Methane: 13.43 ppm
+ADC: 44 | Rs: 222.50 kΩ | Rs/R0: 3.20 | Methane: 13.43 ppm
+ADC: 44 | Rs: 222.50 kΩ | Rs/R0: 3.20 | Methane: 13.43 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 44 | Rs: 222.50 kΩ | Rs/R0: 3.20 | Methane: 13.43 ppm
+ADC: 44 | Rs: 222.50 kΩ | Rs/R0: 3.20 | Methane: 13.43 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 44 | Rs: 222.50 kΩ | Rs/R0: 3.20 | Methane: 13.43 ppm
+
+case 2
+R
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+ADC: 33 | Rs: 300.00 kΩ | Rs/R0: 4.32 | Methane: 11.99 ppm
+
+L
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 38 | Rs: 259.21 kΩ | Rs/R0: 3.73 | Methane: 12.67 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 38 | Rs: 259.21 kΩ | Rs/R0: 3.73 | Methane: 12.67 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 38 | Rs: 259.21 kΩ | Rs/R0: 3.73 | Methane: 12.67 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 38 | Rs: 259.21 kΩ | Rs/R0: 3.73 | Methane: 12.67 ppm
+ADC: 38 | Rs: 259.21 kΩ | Rs/R0: 3.73 | Methane: 12.67 ppm
+ADC: 38 | Rs: 259.21 kΩ | Rs/R0: 3.73 | Methane: 12.67 ppm
+ADC: 38 | Rs: 259.21 kΩ | Rs/R0: 3.73 | Methane: 12.67 ppm
+
+case 3
+R
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 44 | Rs: 222.50 kΩ | Rs/R0: 3.20 | Methane: 13.43 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+
+L
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+
+Day 3
+case 1
+R
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 46 | Rs: 212.39 kΩ | Rs/R0: 3.06 | Methane: 13.67 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 46 | Rs: 212.39 kΩ | Rs/R0: 3.06 | Methane: 13.67 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 46 | Rs: 212.39 kΩ | Rs/R0: 3.06 | Methane: 13.67 ppm
+ADC: 46 | Rs: 212.39 kΩ | Rs/R0: 3.06 | Methane: 13.67 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+ADC: 45 | Rs: 217.33 kΩ | Rs/R0: 3.13 | Methane: 13.55 ppm
+
+L
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+ADC: 49 | Rs: 198.78 kΩ | Rs/R0: 2.86 | Methane: 14.01 ppm
+
+case 2
+R
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+
+L
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+
+case 3
+R
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 32 | Rs: 309.69 kΩ | Rs/R0: 4.46 | Methane: 11.84 ppm
+ADC: 31 | Rs: 320.00 kΩ | Rs/R0: 4.60 | Methane: 11.69 ppm
+
+L
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 51 | Rs: 190.59 kΩ | Rs/R0: 2.74 | Methane: 14.24 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+
+Day 4
+case 1
+R
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+
+L
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+ADC: 57 | Rs: 169.47 kΩ | Rs/R0: 2.44 | Methane: 14.89 ppm
+
+case 2
+R
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+ADC: 86 | Rs: 108.95 kΩ | Rs/R0: 1.57 | Methane: 17.61 ppm
+
+L
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 30 | Rs: 331.00 kΩ | Rs/R0: 4.76 | Methane: 11.55 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+ADC: 29 | Rs: 342.76 kΩ | Rs/R0: 4.93 | Methane: 11.39 ppm
+
+case 3
+R
+ADC: 83 | Rs: 113.25 kΩ | Rs/R0: 1.63 | Methane: 17.35 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+
+L
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 63 | Rs: 152.38 kΩ | Rs/R0: 2.19 | Methane: 15.50 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+
+Day 5
+case 1
+R
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 22 | Rs: 455.00 kΩ | Rs/R0: 6.55 | Methane: 10.23 ppm
+ADC: 23 | Rs: 434.78 kΩ | Rs/R0: 6.26 | Methane: 10.41 ppm
+
+L
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 60 | Rs: 160.50 kΩ | Rs/R0: 2.31 | Methane: 15.20 ppm
+ADC: 61 | Rs: 157.70 kΩ | Rs/R0: 2.27 | Methane: 15.30 ppm
+ADC: 60 | Rs: 160.50 kΩ | Rs/R0: 2.31 | Methane: 15.20 ppm
+
+case 2
+R
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+
+L
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 73 | Rs: 130.14 kΩ | Rs/R0: 1.87 | Methane: 16.46 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+ADC: 74 | Rs: 128.24 kΩ | Rs/R0: 1.85 | Methane: 16.55 ppm
+
+case 3
+R
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 80 | Rs: 117.88 kΩ | Rs/R0: 1.70 | Methane: 17.09 ppm
+ADC: 80 | Rs: 117.88 kΩ | Rs/R0: 1.70 | Methane: 17.09 ppm
+ADC: 80 | Rs: 117.88 kΩ | Rs/R0: 1.70 | Methane: 17.09 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 80 | Rs: 117.88 kΩ | Rs/R0: 1.70 | Methane: 17.09 ppm
+ADC: 80 | Rs: 117.88 kΩ | Rs/R0: 1.70 | Methane: 17.09 ppm
+ADC: 80 | Rs: 117.88 kΩ | Rs/R0: 1.70 | Methane: 17.09 ppm
+ADC: 80 | Rs: 117.88 kΩ | Rs/R0: 1.70 | Methane: 17.09 ppm
+
+L
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 27 | Rs: 368.89 kΩ | Rs/R0: 5.31 | Methane: 11.08 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+ADC: 26 | Rs: 383.46 kΩ | Rs/R0: 5.52 | Methane: 10.92 ppm
+
+Day 6
+case 1
+R
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 81 | Rs: 116.30 kΩ | Rs/R0: 1.67 | Methane: 17.18 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+ADC: 82 | Rs: 114.76 kΩ | Rs/R0: 1.65 | Methane: 17.27 ppm
+
+L
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 79 | Rs: 119.49 kΩ | Rs/R0: 1.72 | Methane: 17.00 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+ADC: 78 | Rs: 121.15 kΩ | Rs/R0: 1.74 | Methane: 16.92 ppm
+
+case 2
+R
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+
+L
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+
+case 3 
+R
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 76 | Rs: 124.61 kΩ | Rs/R0: 1.79 | Methane: 16.74 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+ADC: 75 | Rs: 126.40 kΩ | Rs/R0: 1.82 | Methane: 16.65 ppm
+
+L
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 53 | Rs: 183.02 kΩ | Rs/R0: 2.63 | Methane: 14.46 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+ADC: 52 | Rs: 186.73 kΩ | Rs/R0: 2.69 | Methane: 14.35 ppm
+
+Day 7
+case 1
+R
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 62 | Rs: 155.00 kΩ | Rs/R0: 2.23 | Methane: 15.40 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 66 | Rs: 145.00 kΩ | Rs/R0: 2.09 | Methane: 15.80 ppm
+ADC: 66 | Rs: 145.00 kΩ | Rs/R0: 2.09 | Methane: 15.80 ppm
+ADC: 66 | Rs: 145.00 kΩ | Rs/R0: 2.09 | Methane: 15.80 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 64 | Rs: 149.84 kΩ | Rs/R0: 2.16 | Methane: 15.60 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+ADC: 65 | Rs: 147.38 kΩ | Rs/R0: 2.12 | Methane: 15.70 ppm
+
+L
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 72 | Rs: 132.08 kΩ | Rs/R0: 1.90 | Methane: 16.37 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+ADC: 71 | Rs: 134.08 kΩ | Rs/R0: 1.93 | Methane: 16.28 ppm
+
+case 2
+R
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 40 | Rs: 245.75 kΩ | Rs/R0: 3.54 | Methane: 12.93 ppm
+ADC: 40 | Rs: 245.75 kΩ | Rs/R0: 3.54 | Methane: 12.93 ppm
+ADC: 40 | Rs: 245.75 kΩ | Rs/R0: 3.54 | Methane: 12.93 ppm
+ADC: 40 | Rs: 245.75 kΩ | Rs/R0: 3.54 | Methane: 12.93 ppm
+ADC: 40 | Rs: 245.75 kΩ | Rs/R0: 3.54 | Methane: 12.93 ppm
+ADC: 40 | Rs: 245.75 kΩ | Rs/R0: 3.54 | Methane: 12.93 ppm
+ADC: 40 | Rs: 245.75 kΩ | Rs/R0: 3.54 | Methane: 12.93 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+ADC: 39 | Rs: 252.31 kΩ | Rs/R0: 3.63 | Methane: 12.80 ppm
+
+L
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 56 | Rs: 172.68 kΩ | Rs/R0: 2.48 | Methane: 14.78 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+ADC: 55 | Rs: 176.00 kΩ | Rs/R0: 2.53 | Methane: 14.68 ppm
+
+case 3
+R
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+
+L
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 59 | Rs: 163.39 kΩ | Rs/R0: 2.35 | Methane: 15.10 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
+ADC: 58 | Rs: 166.38 kΩ | Rs/R0: 2.39 | Methane: 14.99 ppm
