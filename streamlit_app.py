@@ -19,13 +19,13 @@ st.write(
 # Sidebar: sensor inputs
 st.sidebar.header("Sensor Readings")
 
-day_num = st.sidebar.number_input(
-    "Day number",
-    min_value=1,
-    max_value=7,
-    value=1,
-    step=1
-)
+#day_num = st.sidebar.number_input(
+   # "Day number",
+   # min_value=1,
+    #max_value=7,
+    #value=1,
+    ##step=1
+#)
 
 methane_left = st.sidebar.number_input(
     "Methane — Left (ppm)",
